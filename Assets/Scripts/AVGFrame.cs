@@ -64,7 +64,7 @@ namespace Duo1J
             }
         }
 
-        private void Begin()
+        public void Begin()
         {
             if (startCoro == null)
             {

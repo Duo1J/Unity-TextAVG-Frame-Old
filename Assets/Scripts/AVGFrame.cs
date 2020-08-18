@@ -64,6 +64,7 @@ namespace Duo1J
             }
         }
 
+        //外部调动启动
         public void Begin()
         {
             if (startCoro == null)
